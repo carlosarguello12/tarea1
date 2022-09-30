@@ -1,0 +1,8 @@
+C:\Users\carlo\source\repos\tarea1\tarea1\bin\Debug\tarea1.exe.config
+C:\Users\carlo\source\repos\tarea1\tarea1\bin\Debug\tarea1.exe
+C:\Users\carlo\source\repos\tarea1\tarea1\bin\Debug\tarea1.pdb
+C:\Users\carlo\source\repos\tarea1\tarea1\obj\Debug\tarea1.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\tarea1\tarea1\obj\Debug\tarea1.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\source\repos\tarea1\tarea1\obj\Debug\tarea1.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\tarea1\tarea1\obj\Debug\tarea1.exe
+C:\Users\carlo\source\repos\tarea1\tarea1\obj\Debug\tarea1.pdb
